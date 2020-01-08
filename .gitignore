@@ -1,5 +1,5 @@
 # file to hold API keys
-config.py
+api_keys
 
 # Jupyter Notebook
 .ipynb_checkpoints
