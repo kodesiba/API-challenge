@@ -3,3 +3,6 @@ api_keys.py
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+#pycache
+__pycache__
